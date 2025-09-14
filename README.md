@@ -1,3 +1,6 @@
+check deployment here - https://xktfs-fyaaa-aaaac-aq3ua-cai.icp0.io/
+
+
 # How to Run the ProofNest Project Locally
 
 ## Prerequisites
